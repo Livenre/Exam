@@ -3,7 +3,7 @@
 React-компонент, який візуалізує активність у вигляді теплової карти (подібно до GitHub Contributions).  
 **Демо:** [https://Livenre.github.io/Exam](https://Livenre.github.io/Exam)
 
-![Приклад теплової карти активності](./assets/screen.png)
+![Приклад теплової карти активності](https://github.com/user-attachments/assets/5ea65cb3-4f5c-424f-95d8-0924537991de)
 
 ## Особливості
 
